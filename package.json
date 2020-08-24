@@ -1,0 +1,19 @@
+{
+  "name": "graphql-example",
+  "version": "1.0.0",
+  "description": "Graphql sample server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pulkit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0",
+    "lodash.filter": "^4.6.0",
+    "lodash.find": "^4.6.0",
+    "mongoose": "^5.10.0"
+  }
+}
